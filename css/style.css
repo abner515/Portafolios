@@ -1,0 +1,44 @@
+*{
+	padding: 0;
+	margin:0;
+}
+
+html, body{
+	background: #E9D99A;
+}
+
+.img{
+	width: 101%;
+	height: 100%;
+}
+
+.container-fluid{
+    position: relative;
+    display: inline-block;
+    text-align: center;
+}
+
+.centrado{
+    position: absolute;
+    top: 50%;
+    left: 50%;
+    transform: translate(-50%, -50%);
+}
+p{
+	font-size: 20px;
+	font: oblique 120% sans-serif bold;
+	color:#FFF;
+}
+h1{
+	font-family: 'Oleo Script Swash Caps', cursive;
+	font-size: 70px;
+	color:#FFF;
+}
+
+
+
+
+
+
+
+
